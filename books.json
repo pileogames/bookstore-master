@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Rx7",
+    "author": "Mazda",
+    "image": "images/mazdaRx7.jpg",
+    "popular": false,
+    "favorite": false
+  },
+  {
+    "title": "WRX STI",
+    "author": "Subaru",
+    "image": "images/subaruWRX.png",
+    "popular": false,
+    "favorite": true
+  },
+  {
+    "title": "M3 E30",
+    "author": "BMW",
+    "image": "images/bmwe30.png",
+    "popular": true,
+    "favorite": true
+  },
+  {
+    "title": "Lancer Evolution IX",
+    "author": "Mitsubishi",
+    "image": "images/mitEvo9.jpg",
+    "popular": true,
+    "favorite": true
+  },
+  {
+    "title": "GTR",
+    "author": "Nissan",
+    "image": "images/nissanGTR.png",
+    "popular": false,
+    "favorite": true
+  }
+    
+  ]
